@@ -1,4 +1,4 @@
-DAMG6210 Project – Food Bank
+**DAMG6210 Project – Food Bank**
 
 **Mission Statement:**
 The project aims to efficiently and effectively manage a food bank system, managing supplies and funds from donors and sponsors, and tracking the number of recipients to meet the needs of the local community and fight hunger.
