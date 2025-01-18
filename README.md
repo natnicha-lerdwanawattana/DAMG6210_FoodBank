@@ -1,9 +1,9 @@
 DAMG6210 Project – Food Bank
 
-**Mission Statement**:
+**Mission Statement:**
 The project aims to efficiently and effectively manage a food bank system, managing supplies and funds from donors and sponsors, and tracking the number of recipients to meet the needs of the local community and fight hunger.
 
-**Objectives**
+**Objectives:**
 1.	Donation and Sponsorship Tracking
 * Record food and fund donations from donors and sponsors
 * Generate a time report of the donations and their sources
